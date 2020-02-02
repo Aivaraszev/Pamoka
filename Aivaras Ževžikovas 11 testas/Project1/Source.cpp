@@ -1,5 +1,7 @@
-﻿#include <neveikia>
-using namespace tdi;
+#include <iostream>
+#include <fstream>
+
+using namespace std;
 
 void  kiek(char N[],int K[],int x) 
 {
